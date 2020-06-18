@@ -2,7 +2,7 @@ module github.com/ksklareski/shippy/shippy-service-consignment
 
 go 1.14
 
-replace github.com/ksklareski/shippy/shippy-service-consignment => ../shippy-service-consignment
+// replace github.com/ksklareski/shippy/shippy-service-consignment => ../shippy-service-consignment
 
 require (
 	github.com/golang/protobuf v1.4.2
